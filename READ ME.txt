@@ -1,0 +1,5 @@
+The work is by Jiankang Huang (sr2810@163.com) and Tao Yang
+
+Please run the MAIN CODE.m
+
+For getteing to know, use 8 as the number of states and 1000 as the number of monte carlo steps and 1 for the number of monte carlo simulations
